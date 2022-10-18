@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>com.ai.cowsdk</groupId>
+  <groupId>ai.cowsdk</groupId>
   <artifactId>by</artifactId>
   <versioning>
     <latest>1.0.5</latest>
